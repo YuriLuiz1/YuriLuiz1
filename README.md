@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Meu nome é Yuri luiz e eu sou de São Paulo - Guarulhos<br><br>- 🎧 Atualmente trabalho como suporte N2<br>- 🖥️ Cursando A.D.S ( Análise e desenvolvimento de sistemas ).<br>- 💡 No meu tempo livre leio livros focados em PHP, Javascript, Java e foco em continuar projetos pessoais</p>
+<p align="left">Meu nome é Yuri luiz e eu sou de São Paulo - Guarulhos<br><br>- 🎧 Atualmente trabalho como suporte N2<br>- 🖥️ Formado em A.D.S ( Análise e desenvolvimento de sistemas ).<br>- 💡 No meu tempo livre leio livros focados em Javascript, Golang e foco em continuar projetos pessoais</p>
 
 ###
 
