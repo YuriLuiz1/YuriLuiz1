@@ -1,76 +1,92 @@
-<div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG53YTJjamI3Z2F2dnZkMGNzMWR1eWYwcHRsaDd4d2Y5M2R5YnY3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
-</div>
+# 👋 Olá, eu sou o Yuri Silva
 
-###
+💻 Desenvolvedor Fullstack com foco em Backend
+🚀 Em transição da área de Suporte N2 para Desenvolvimento
+📍 São Paulo - SP
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YuriLuiz1.YuriLuiz1&left_color=black&right_color=blue"  />
-</div>
+---
 
-###
+## 🚀 Sobre mim
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/yuri-luiz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://account.microsoft.com/profile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
-  </a>
-</div>
+Atualmente atuo como **Analista de Suporte N2**, lidando com ambientes críticos, redes, VoIP e análise de sistemas em produção.
 
-###
+Tenho forte experiência em **resolução de problemas complexos**, análise de APIs e troubleshooting avançado — o que me permite desenvolver soluções mais robustas e estáveis.
 
-<h2 align="center">Olá, tudo bem?</h2>
+Hoje meu foco é atuar como **Desenvolvedor Backend / Fullstack**, utilizando Node.js e TypeScript para construir aplicações escaláveis.
 
-###
+---
 
-<h3 align="center"><👨‍💻Sobre Mim/></h3>
+## 🧠 Tecnologias
 
-###
+### Backend
 
-<p align="left">Meu nome é Yuri luiz e eu sou de São Paulo - Guarulhos<br><br>- 🎧 Atualmente trabalho como suporte N2<br>- 🖥️ Formado em A.D.S ( Análise e desenvolvimento de sistemas ).<br>- 💡 No meu tempo livre leio livros focados em Javascript, Golang e foco em continuar projetos pessoais</p>
+* Node.js
+* TypeScript
+* Express
+* Prisma ORM
+* APIs REST / RESTful
 
-###
+### Frontend
 
-<h3 align="center"><🛠 Linguagens e ferramentas/></h3>
+* ReactJS
+* HTML
+* CSS
 
-###
+### Banco de Dados
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nvim" height="40" alt="neo vim" />
-</div>
+* PostgreSQL
 
-###
+### Infraestrutura e Ferramentas
 
-<h3 align="center"></h3>
+* Linux / Windows
+* Git e GitHub
+* HTTP / HTTPS
+* Redes e VoIP
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YuriLuiz1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+## 🔥 Projeto em destaque
 
-###
+### 🎌 Ninja Animes
+
+Plataforma de recomendação de animes com curadoria própria, separada por gêneros.
+
+🔗 Acesse: https://ninjaanimes.com.br
+
+📦 Repositórios:
+
+* Backend: (link aqui)
+* Frontend: (link aqui)
+
+💡 Diferencial: sistema de curadoria baseado em experiência real, não algoritmo genérico.
+
+---
+
+## 📌 Outros Projetos
+
+### 📚 API de Mangás
+
+API RESTful completa com arquitetura organizada, CRUD e boas práticas de desenvolvimento.
+
+### 🌐 Monitoramento de Sites (Golang)
+
+Sistema para monitoramento de disponibilidade de sites via requisições HTTPS.
+
+### 🧹 Limpador de Cache Automático (Golang)
+
+Ferramenta multiplataforma para limpeza automática de cache em diferentes sistemas operacionais.
+
+---
+
+## 📫 Contato
+
+📧 Email: [yuriluiz@live.com](mailto:yuriluiz@live.com)
+📱 Telefone: 11 95980-2686
+💼 LinkedIn: https://www.linkedin.com/in/yuri-luiz/
+🐙 GitHub: https://github.com/YuriLuiz1
+
+---
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade como desenvolvedor, onde eu possa aplicar meus conhecimentos em desenvolvimento e evoluir profissionalmente contribuindo com projetos reais.
