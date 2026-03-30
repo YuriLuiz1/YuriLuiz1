@@ -55,8 +55,8 @@ Plataforma de recomendação de animes com curadoria própria, separada por gên
 
 📦 Repositórios:
 
-* Backend: (link aqui)
-* Frontend: (link aqui)
+* Backend: https://github.com/YuriLuiz1/ninja-platform-backend
+* Frontend: https://github.com/yuuzzzo/ninja-platform-frontend-nextjs
 
 💡 Diferencial: sistema de curadoria baseado em experiência real, não algoritmo genérico.
 
