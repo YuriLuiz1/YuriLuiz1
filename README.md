@@ -34,9 +34,7 @@
 
 <h3 data-importer="text" align="center">⭐ Featured repository</h3>
 
-###
 
-<br clear="both">
 
 <h5 data-importer="text" align="center">Anime curation site:<br><br>Front-End: https://github.com/yuuzzzo/front-ninja-angular<br>Back-End: https://github.com/yuuzzzo/nestjs-backend-ninja</h5>
 
@@ -71,11 +69,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/YuriLuiz1/YuriLuiz1/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
