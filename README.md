@@ -36,7 +36,7 @@
 
 
 <h5 data-importer="text" align="center">https://ninjaanimes.com.br</h5>
-<h5 data-importer="text" align="center">Anime curation site:<br><br>Front-End: https://github.com/yuuzzzo/front-ninja-angular<br>Back-End: https://github.com/yuuzzzo/nestjs-backend-ninja</h5>
+<h5 data-importer="text" align="center">Anime curation site:<br><br>https://ninjaanimes.com.br<br><br>Front-End: https://github.com/yuuzzzo/front-ninja-angular<br>Back-End: https://github.com/yuuzzzo/nestjs-backend-ninja</h5>
 
 ###
 
