@@ -1,92 +1,81 @@
-# 👋 Olá, eu sou o Yuri Silva
+<div data-importer="image" align="center">
+  <img data-importer="image" height="201" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJwcW9rdXJvNzQwMTM2ajUwcWR4NWt3czg4MTQ2MW0xdDVnY2xmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif"  />
+</div>
 
-💻 Desenvolvedor Fullstack com foco em Backend
-🚀 Em transição da área de Suporte N2 para Desenvolvimento
-📍 São Paulo - SP
+###
 
----
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/yuri-luiz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
-## 🚀 Sobre mim
+###
 
-Atualmente atuo como **Analista de Suporte N2**, lidando com ambientes críticos, redes, VoIP e análise de sistemas em produção.
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=YuriLuiz1.YuriLuiz1&right_color=black"  />
+</div>
 
-Tenho forte experiência em **resolução de problemas complexos**, análise de APIs e troubleshooting avançado — o que me permite desenvolver soluções mais robustas e estáveis.
+###
 
-Hoje meu foco é atuar como **Desenvolvedor Backend / Fullstack**, utilizando Node.js e TypeScript para construir aplicações escaláveis.
+<h2 data-importer="text" align="center">Hello, visitor. 👋</h2>
 
----
+###
 
-## 🧠 Tecnologias
+<h3 data-importer="text" align="center">👩‍💻  About Me</h3>
 
-### Backend
+###
 
-* Node.js
-* TypeScript
-* Express
-* Prisma ORM
-* APIs REST / RESTful
+<h5 data-importer="text" align="left">💻 Developer Fullstack<br>🚀 Transitioning from Tier 2 Support to Development<br>📍 Guarulhos - SP<br><br>I currently work as a Level 2 Support Analyst, handling critical environments, networks, VoIP, and production system analysis.<br><br>I have extensive experience in complex problem-solving, API analysis, and advanced troubleshooting—skills that enable me to develop more robust and stable solutions.<br><br>My current focus is working as a Full-Stack Developer, using Node.js and TypeScript to build scalable applications.</h5>
 
-### Frontend
+###
 
-* ReactJS
-* HTML
-* CSS
+<br clear="both">
 
-### Banco de Dados
+<h3 data-importer="text" align="center">⭐ Featured repository</h3>
 
-* PostgreSQL
+###
 
-### Infraestrutura e Ferramentas
+<br clear="both">
 
-* Linux / Windows
-* Git e GitHub
-* HTTP / HTTPS
-* Redes e VoIP
+<h5 data-importer="text" align="center">Anime curation site:<br><br>Front-End: https://github.com/yuuzzzo/front-ninja-angular<br>Back-End: https://github.com/yuuzzzo/nestjs-backend-ninja</h5>
 
----
+###
 
-## 🔥 Projeto em destaque
+<h3 data-importer="text" align="center">🛠 Language and tools</h3>
 
-### 🎌 Ninja Animes
+###
 
-Plataforma de recomendação de animes com curadoria própria, separada por gêneros.
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+</div>
 
-🔗 Acesse: https://ninjaanimes.com.br
+###
 
-📦 Repositórios:
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/YuriLuiz1/YuriLuiz1/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-* Backend: https://github.com/YuriLuiz1/ninja-platform-backend
-* Frontend: https://github.com/yuuzzzo/ninja-platform-frontend-nextjs
-
-💡 Diferencial: sistema de curadoria baseado em experiência real, não algoritmo genérico.
-
----
-
-## 📌 Outros Projetos
-
-### 📚 API de Mangás
-
-API RESTful completa com arquitetura organizada, CRUD e boas práticas de desenvolvimento.
-
-### 🌐 Monitoramento de Sites (Golang)
-
-Sistema para monitoramento de disponibilidade de sites via requisições HTTPS.
-
-### 🧹 Limpador de Cache Automático (Golang)
-
-Ferramenta multiplataforma para limpeza automática de cache em diferentes sistemas operacionais.
-
----
-
-## 📫 Contato
-
-📧 Email: [yuriluiz@live.com](mailto:yuriluiz@live.com)
-📱 Telefone: 11 95980-2686
-💼 LinkedIn: https://www.linkedin.com/in/yuri-luiz/
-🐙 GitHub: https://github.com/YuriLuiz1
-
----
-
-## 🎯 Objetivo
-
-Busco minha primeira oportunidade como desenvolvedor, onde eu possa aplicar meus conhecimentos em desenvolvimento e evoluir profissionalmente contribuindo com projetos reais.
+###
